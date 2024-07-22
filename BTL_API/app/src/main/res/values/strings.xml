@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">eIT5</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_register">Đăng kí</string>
+    <string name="nav_calendar">Lịch Học</string>
+    <string name="nav_test">Lịch Thi</string>
+    <string name="nav_change_profile">Thay đổi thông tin cá nhân</string>
+    <string name="nav_change_password">Đổi Mật Khẩu</string>
+    <string name="nav_account">Tài Khoản</string>
+
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+
+</resources>
