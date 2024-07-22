@@ -13,6 +13,7 @@ BasicAndroidApp is an Android Class schedule management application using basic 
 - Then create all procedure in query
 - Open mainBTL.py anh configBTL.py in Visual Studio
 - In configBTL change "DESKTOP-51MISFU\HIUTAO;" into your computer name
-- Open cmd and type ipconfig, then fing your wifi ip and copy it. In mainBTL.py, change 
-- 
+- Open cmd and type ipconfig, then fing your wifi ip and copy it. In mainBTL.py, paste your ip app.run(host="your ip",port=3333) 
+- Run mainBTL.py
+- Open BTL_API in Android Studio and run
 
